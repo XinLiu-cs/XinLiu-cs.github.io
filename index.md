@@ -10,7 +10,7 @@ My research interests lies in Natural Language Processing, Language Generation, 
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.
 
 ## Education
-* [Aug 2019-present] M.S. in Software Engineering, Xiamen University. Advisor: [Prof. Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+* [Aug 2019-present] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 * [Aug 2015-Jun 2019] B.S. in Software Engineering, Xiamen University.
 
 ## Experience
@@ -18,15 +18,12 @@ My research interests lies in Natural Language Processing, Language Generation, 
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
 ## Publications
-* [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125) **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. _In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
-* [An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension.](https://www.ijcai.org/proceedings/2020/525)  **Xin Liu\***, Kai Liu\*, Xiang Li\*, Jinsong Su, Yubin Ge, Bin Wang, Jiebo Luo. 
+* **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)_In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
+* **Xin Liu\***, Kai Liu\*, Xiang Li\*, Jinsong Su, Yubin Ge, Bin Wang, Jiebo Luo. [An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension.](https://www.ijcai.org/proceedings/2020/525)
 _In the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI 2020)_
-* [A Robust Adversarial Training Approach to Machine Reading Comprehension.](https://ojs.aaai.org/index.php/AAAI/article/download/6357/6213) Kai Liu\*, **Xin Liu\***, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She. 
+* Kai Liu\*, **Xin Liu\***, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She. [A Robust Adversarial Training Approach to Machine Reading Comprehension.](https://ojs.aaai.org/index.php/AAAI/article/download/6357/6213)
 _In the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)_
-* [Word Sense Disambiguation Model with a Cache-Like Memory Module.](https://drive.google.com/file/d/10JMSSM9ZyMq_ucdVysulki1JJxz9uPdB/view?usp=sharing) Qian Lin, **Xin Liu**, Chunlei Xin, Haiying Zhang, Hualin Zeng, Tonghui Zhang, Jinsong Su.
-_Journal of Donghua University (Eng. Ed) Vol. 38, No.4 (2021)_
-* [中文词语内部层次结构标注语料库的建立 (The construction of internal hierarchical structure corpus for Chinese words)](http://jxmu.xmu.edu.cn/oa/DArticle.aspx?type=view&id=20200213)。林倩,文华婷,杨静,**刘鑫(Xin Liu)**,林欢,王鸿吉,苏劲松。
-_厦门大学学报（自然科学版）Journal of Xiamen University (NATURAL SCIENCE EDITION)_
-
+* Qian Lin, Huating Wen, Jing Yang, **Xin Liu**, Huan Lin, Hongji Wang, Jinsong Su. [The construction of internal hierarchical structure corpus for Chinese words.](http://jxmu.xmu.edu.cn/oa/DArticle.aspx?type=view&id=20200213)
+_Journal of Xiamen University (NATURAL SCIENCE EDITION)_
 
 

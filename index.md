@@ -18,7 +18,8 @@ My research interests lies in Natural Language Processing, Language Generation, 
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
 ## Publications
-* **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)_In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
+* **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)
+_In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
 * **Xin Liu\***, Kai Liu\*, Xiang Li\*, Jinsong Su, Yubin Ge, Bin Wang, Jiebo Luo. [An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension.](https://www.ijcai.org/proceedings/2020/525)
 _In the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI 2020)_
 * Kai Liu\*, **Xin Liu\***, An Yang, Jing Liu, Jinsong Su, Sujian Li, Qiaoqiao She. [A Robust Adversarial Training Approach to Machine Reading Comprehension.](https://ojs.aaai.org/index.php/AAAI/article/download/6357/6213)

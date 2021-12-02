@@ -7,7 +7,7 @@ My research interests lies in Natural Language Processing, Language Generation, 
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
-* [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation] is accepted by AAAI2022.
+* [Dec 2021] Paper KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation is accepted by AAAI2022.
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.
 
 ## Education
@@ -19,6 +19,8 @@ My research interests lies in Natural Language Processing, Language Generation, 
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
 ## Publications
+* **Xin Liu**, Dayiheng Liu, Baosong Yang, Junwei Ding, Wenqing Yao, Weihua Luo, Haiying Zhang, Jinsong Su. KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation.
+_(To appear) In the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)_
 * **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)
 _In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
 * **Xin Liu\***, Kai Liu\*, Xiang Li\*, Jinsong Su, Yubin Ge, Bin Wang, Jiebo Luo. [An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension.](https://www.ijcai.org/proceedings/2020/525)

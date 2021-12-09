@@ -8,6 +8,7 @@ My research interests lies in Natural Language Processing, Language Generation, 
 
 ## News
 * [Dec 2021] Paper KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation is accepted by AAAI2022.
+* [May 2021] Our model KGR^4 achieves **1st place** in [CommonGen](leaderboard).
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.
 
 ## Education

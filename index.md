@@ -1,6 +1,6 @@
 # Xin Liu (刘鑫)
 * I am a master student (from 2019.09) in the Natural Language Processing Laboratory at the [Center for Digital Media Computing and Software Engineering, School of Informatics, Xiamen University](https://cdmc.xmu.edu.cn/index.htm), advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). I'm currently interning at [Alibaba DAMO Academy](https://damo.alibaba.com/), supervised by Dr. [Baosong Yang](https://baosongyang.site/) and Dr. [Dayiheng Liu](https://dayihengliu.github.io/).
-My research interests lies in Natural Language Processing, Language Generation, Machine Translation and Question Answering.
+My research interests lie in Natural Language Processing, Language Generation, Machine Translation, and Question Answering.
 
 * **Email**: liuxin{at}stu{dot}xmu{dot}edu{dot}cn
 

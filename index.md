@@ -7,6 +7,7 @@ My research interests lie in Natural Language Processing, Language Generation, M
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
+* [Mar 2022] Be nominated as the Alibaba Group Outstanding Science Research Intern (13 nominations out of more than 1,000 candidates).
 * [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266) is accepted by AAAI2022.
 * [May 2021] Our model KGR^4 achieves **1st place** in CommonGen [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.

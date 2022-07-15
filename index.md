@@ -13,7 +13,8 @@ My research interests lie in Natural Language Processing, Language Generation, M
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.
 
 ## Education
-* [Aug 2019-present] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+* [Sep 2022-] Ph.D. in Computer Science, University of Michigan. Advisor: Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/).
+* [Aug 2019-Jun 2022] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 * [Aug 2015-Jun 2019] B.S. in Software Engineering, Xiamen University.
 
 ## Experience
@@ -22,7 +23,7 @@ My research interests lie in Natural Language Processing, Language Generation, M
 
 ## Publications
 * **Xin Liu**, Dayiheng Liu, Baosong Yang, Junwei Ding, Wenqing Yao, Weihua Luo, Haiying Zhang, Jinsong Su. [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266).
-_(To appear) In the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)_
+_In the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)_
 * **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)
 _In the 59th Annual Meeting of the Association for Computational Linguistics (ACL 2021)_
 * **Xin Liu\***, Kai Liu\*, Xiang Li\*, Jinsong Su, Yubin Ge, Bin Wang, Jiebo Luo. [An Iterative Multi-Source Mutual Knowledge Transfer Framework for Machine Reading Comprehension.](https://www.ijcai.org/proceedings/2020/525)

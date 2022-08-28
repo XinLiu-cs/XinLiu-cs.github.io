@@ -1,23 +1,24 @@
 # Xin Liu (刘鑫)
-* I am a master student (from 2019.09) in the Natural Language Processing Laboratory at the [Center for Digital Media Computing and Software Engineering, School of Informatics, Xiamen University](https://cdmc.xmu.edu.cn/index.htm), advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). I'm currently interning at [Alibaba DAMO Academy](https://damo.alibaba.com/), supervised by Dr. [Baosong Yang](https://baosongyang.site/) and Dr. [Dayiheng Liu](https://dayihengliu.github.io/).
-My research interests lie in Natural Language Processing, Language Generation, Machine Translation, and Question Answering.
 
-* **Email**: liuxincs{at}umich{dot}edu liuxin{at}stu{dot}xmu{dot}edu{dot}cn
+* I am a 1st-year Ph.D. student in Computer Science & Engineering at University of Michigan, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I am a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab. My research interests lie in subfields of Natural Language Processing, such as Language Generation, Machine Translation, and Question Answering. Previously, I received my master and bachlor degree in Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+
+* **Email**: liuxincs{at}umich{dot}edu
 
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
-* [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of more than 1,000 candidates).
+* [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab in the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
+* [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of 1,000+ candidates).
 * [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266) is accepted by AAAI2022.
 * [May 2021] Our model KGR^4 achieves **1st place** in CommonGen [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
 * [May 2021] Paper [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation](https://arxiv.org/pdf/2106.06125) is accepted by ACL2021.
 
 ## Education
-* [Sep 2022-] Ph.D. in Computer Science, University of Michigan. Advisor: Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/).
+* [Aug 2022-] Ph.D. in Computer Science, University of Michigan. Advisor: Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/).
 * [Aug 2019-Jun 2022] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 * [Aug 2015-Jun 2019] B.S. in Software Engineering, Xiamen University.
 
-## Experience
+## Internship Experience
 * [Oct 2020-present] Research Intern in Alibaba Damo Academy. Advisor: Dr. [Baosong Yang](https://baosongyang.site/) and Dr. [Dayiheng Liu](https://dayihengliu.github.io/).
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
@@ -32,5 +33,4 @@ _In the Twenty-Ninth International Joint Conference on Artificial Intelligence (
 _In the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020)_
 * Qian Lin, Huating Wen, Jing Yang, **Xin Liu**, Huan Lin, Hongji Wang, Jinsong Su. [The construction of internal hierarchical structure corpus for Chinese words.](http://jxmu.xmu.edu.cn/oa/DArticle.aspx?type=view&id=20200213)
 _Journal of Xiamen University (NATURAL SCIENCE EDITION)_
-
 

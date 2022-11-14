@@ -24,7 +24,7 @@
 
 ## Publications
 * Xiaoyue Wang, Linfeng Song, **Xin Liu**, Chulun Zhou, Jinsong Su. [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984).
-_In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP2022)_
+_In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)_
 * **Xin Liu**, Dayiheng Liu, Baosong Yang, Junwei Ding, Wenqing Yao, Weihua Luo, Haiying Zhang, Jinsong Su. [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266).
 _In the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)_
 * **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)

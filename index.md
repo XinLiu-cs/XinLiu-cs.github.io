@@ -8,7 +8,7 @@
 
 ## News
 * [Oct 2022] Paper [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) is accepted as a findings paper of EMNLP2022.
-* [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab in the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
+* [Aug 2022] Joi the [LAUNCH](https://launch.eecs.umich.edu/home) lab in the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
 * [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of 1,000+ candidates).
 * [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266) is accepted by AAAI2022.
 * [May 2021] Our model KGR^4 achieves **1st place** in CommonGen [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).
@@ -24,6 +24,7 @@
 
 ## Publications
 * Xiaoyue Wang, Linfeng Song, **Xin Liu**, Chulun Zhou, Jinsong Su. [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984).
+_In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP2022)_
 * **Xin Liu**, Dayiheng Liu, Baosong Yang, Junwei Ding, Wenqing Yao, Weihua Luo, Haiying Zhang, Jinsong Su. [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266).
 _In the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI 2022)_
 * **Xin Liu**, Baosong Yang, Dayiheng Liu, Haibo Zhang, Weihua Luo, Min Zhang, Haiying Zhang, Jinsong Su. [Bridging Subword Gaps in Pretrain-Finetune Paradigm for Natural Language Generation.](https://arxiv.org/pdf/2106.06125)

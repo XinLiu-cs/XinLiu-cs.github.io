@@ -7,7 +7,7 @@
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
-* [May 2023] One paper gets accecpted in ACL 2023. Preprint paper and codes will be released soon!
+* [May 2023] One paper gets accecpted at ACL 2023. Preprint paper and codes will be released soon!
 * [Oct 2022] Paper [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) is accepted as a findings paper of EMNLP2022.
 * [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab at University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
 * [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of 1,000+ candidates).

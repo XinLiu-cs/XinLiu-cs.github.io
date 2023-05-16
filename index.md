@@ -1,6 +1,6 @@
 # Xin Liu (刘鑫)
 
-* I am a 1st-year Ph.D. student in Computer Science & Engineering at University of Michigan, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). I am a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab. My research interests lie in subfields of Natural Language Processing, such as Language Generation, Machine Translation, and Question Answering. Previously, I received my master and bachelor degree in Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+* I am a 1st-year Ph.D. student in Computer Science & Engineering at University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests lie in subfields of Natural Language Processing, such as Language Generation, Machine Translation, and Question Answering. Previously, I received my master and bachelor degree in Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
 * **Email**: liuxincs{at}umich{dot}edu
 

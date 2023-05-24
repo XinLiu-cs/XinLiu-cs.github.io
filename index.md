@@ -24,6 +24,7 @@
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
 ## Publications
+* **Xin Liu**, Muhammad Khalifa, Lu Wang. [BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases](https://arxiv.org/abs/2305.12018)
 * Xiaoyue Wang, Linfeng Song, **Xin Liu**, Chulun Zhou, Jinsong Su. [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984).
 _In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2022)_
 * **Xin Liu**, Dayiheng Liu, Baosong Yang, Junwei Ding, Wenqing Yao, Weihua Luo, Haiying Zhang, Jinsong Su. [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266).

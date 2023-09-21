@@ -1,6 +1,6 @@
 # Xin Liu (刘鑫)
 
-* I am a 2nd-year Ph.D. student in Computer Science & Engineering at University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests lie in subfields of Natural Language Processing, such as Language Generation, Machine Translation, and Question Answering. Previously, I received my master and bachelor degree at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+* I am a 2nd-year Ph.D. student in Computer Science & Engineering at the University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests lie in subfields of Natural Language Processing, especially Language Generation and Question Answering. Previously, I received my master's and bachelor's degrees at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
 * **Email**: liuxincs{at}umich{dot}edu
 
@@ -9,7 +9,7 @@
 ## News
 * [May 2023] Paper [BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases](https://arxiv.org/abs/2305.12018) gets accecpted by ACL 2023.
 * [Oct 2022] Paper [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) is accepted as a findings paper of EMNLP2022.
-* [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab at University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
+* [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab at the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
 * [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of 1,000+ candidates).
 * [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266) is accepted by AAAI2022.
 * [May 2021] Our model KGR^4 achieves **1st place** in CommonGen [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html).

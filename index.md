@@ -2,6 +2,8 @@
 
 * I am a 2nd-year Ph.D. student in Computer Science & Engineering at the University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests lie in subfields of Natural Language Processing, especially Language Generation and Question Answering. Previously, I received my master's and bachelor's degrees at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
+Actively on the hunt for a Summer 2024 internship focused on LLM calibration and factualness! Check out my [CV](https://drive.google.com/file/d/1YlcbXESxSYbDyt6sKitQxv24HiBrzJ_o/view?usp=sharing).
+
 * **Email**: liuxincs{at}umich{dot}edu
 
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)

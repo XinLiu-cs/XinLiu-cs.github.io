@@ -2,14 +2,12 @@
 
 * I am a 2nd-year Ph.D. student in Computer Science & Engineering at the University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests focus on Language Generation, particularly the factualness and calibration of language models. Previously, I received my master's and bachelor's degrees at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
-* **I'm actively looking for a Summer 2024 internship focused on LLM calibration and factualness! Check out my [CV](https://drive.google.com/file/d/1YlcbXESxSYbDyt6sKitQxv24HiBrzJ_o/view?usp=sharing).**
-
-* **Email**: liuxincs{at}umich{dot}edu
+* **Email**: Please arrange the following tokens to obtain my email address: edu @ liuxincs umich .
 
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
-* [Oct 2023] Check out our preprint paper about LLM calibration [LitCab: Lightweight Calibration of Language Models on Outputs of Varied Lengths](https://arxiv.org/abs/2310.19208).
+* [Jan 2024] Paper [LitCab: Lightweight Calibration of Language Models on Outputs of Varied Lengths](https://arxiv.org/abs/2310.19208) is accepted to ICLR 2024.
 * [May 2023] Paper [BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases](https://arxiv.org/abs/2305.12018) gets accepted by ACL 2023.
 * [Oct 2022] Paper [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) is accepted as a findings paper of EMNLP2022.
 * [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab at the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).

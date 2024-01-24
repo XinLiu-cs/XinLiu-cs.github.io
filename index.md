@@ -2,7 +2,7 @@
 
 * I am a 2nd-year Ph.D. student in Computer Science & Engineering at the University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests focus on Language Generation, particularly the factualness and calibration of language models. Previously, I received my master's and bachelor's degrees at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
-* **Email**: Please arrange the following tokens to obtain my email address: ```edu @ . liuxincs umich```
+* **Email**: Please arrange ```edu @ . liuxincs umich``` to obtain my email address.
 
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 

@@ -26,7 +26,7 @@
 * [Mar 2019-Feb 2020] Research Intern in NLP Department of Baidu. Advisor: Dr. [Kai Liu](https://scholar.google.com/citations?user=Opt1ovkAAAAJ&hl=en).
 
 ## Publications
-* **Xin Liu**, Muhammad Khalifa, Lu Wang. [LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses]([https://arxiv.org/abs/2305.12018](https://arxiv.org/abs/2310.19208)). _ICLR 2024_
+* **Xin Liu**, Muhammad Khalifa, Lu Wang. [LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses](https://arxiv.org/abs/2310.19208). _ICLR 2024_
 * **Xin Liu**, Muhammad Khalifa, Lu Wang. [BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases](https://arxiv.org/abs/2305.12018). _In the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_
 <!--- * Xiaoyue Wang, Linfeng Song, **Xin Liu**, Chulun Zhou, Jinsong Su. [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984).
 _In Findings of the 2022 Conference on Empirical Methods in Natural Language Processing (Findings of EMNLP 2022)_ --->

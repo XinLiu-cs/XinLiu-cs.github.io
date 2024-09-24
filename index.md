@@ -7,10 +7,10 @@
 * [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
 
 ## News
+* [Sep 2024] Paper [Enhancing Language Model Factuality via Activation-Based Confidence Calibration and Guided Decoding](https://arxiv.org/abs/2406.13230) is accepted to EMNLP2024.
 * [May 2024] Paper [Enhanced Language Model Truthfulness with Learnable Intervention and Uncertainty Expression](https://arxiv.org/abs/2405.00301) is accepted as a findings paper pf ACL2024.
 * [Jan 2024] Paper [LitCab: Lightweight Language Model Calibration over Short- and Long-form Responses](https://arxiv.org/abs/2310.19208) is accepted to ICLR 2024.
 * [May 2023] Paper [BOLT: Fast Energy-based Controlled Text Generation with Tunable Biases](https://arxiv.org/abs/2305.12018) gets accepted by ACL 2023.
-* [Oct 2022] Paper [Getting the Most out of Simile Recognition](https://arxiv.org/abs/2211.05984) is accepted as a findings paper of EMNLP2022.
 * [Aug 2022] Join the [LAUNCH](https://launch.eecs.umich.edu/home) lab at the University of Michigan as a Ph.D. student, advised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html).
 * [Mar 2022] Be nominated as the [Alibaba Group Outstanding Science Research Intern](https://cdmc.xmu.edu.cn/info/1002/1923.htm) (13 nominations out of 1,000+ candidates).
 * [Dec 2021] Paper [KGR^4: Retrieval, Retrospect, Refine and Rethink for Commonsense Generation](https://arxiv.org/abs/2112.08266) is accepted by AAAI2022.

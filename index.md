@@ -2,9 +2,11 @@
 
 * I am a Ph.D. candidate in Computer Science & Engineering at the University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research focuses on trustworthy and efficient large language models — including factuality, confidence calibration, reasoning, long-form evaluation, knowledge distillation / post-training, and more recently interpretability and safety. Previously, I received my master's and bachelor's degrees at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 
+* **I am on the job market** for research scientist positions, graduating in December 2026 — please feel free to reach out!
+
 * **Email**: Please arrange ```edu @ . liuxincs umich``` to get my email address.
 
-* [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html)
+* [Google Scholar](https://scholar.google.com/citations?user=AUUYG0QAAAAJ&hl=zh-CN), [DBLP](https://dblp.uni-trier.de/pid/76/1820-66.html), [LinkedIn](https://www.linkedin.com/in/xin-l-bb18b1297/)
 
 ## News
 * [May 2026] Joined **ByteDance Seed** as a Research Intern, working on LLM safety and interpretability.
